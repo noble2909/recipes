@@ -1,1 +1,1 @@
-# recipes
+This project comes under the curriculum of The Odin Project.This website allows users to view recipes for different dishes and is made using HTML. The website integrates relative links to show different recipes and images for reference. This project has trained me to create websites, use links and images and structure files that is required.
